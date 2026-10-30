@@ -19,7 +19,7 @@ Developing Crag Co LLC's engineering governance framework, including repository-
 
 ## Selected Repository
 
-- [**CRAG Repository Governance**](https://github.com/bretcarpenter/crag-repository-governance) — A working repository for software engineering governance, configuration management, change control, evidence provenance, and release management.
+- [**CRAG Repository Governance**](https://github.com/bretcarpenter/crag-repository-governance) — private repository; access is restricted and its contents are not publicly viewable. It contains working governance records for software engineering governance, configuration management, change control, evidence provenance, and release management.
 
 ## Engineering Principles
 
